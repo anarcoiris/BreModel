@@ -1,0 +1,27 @@
+{
+  "sustantivos": [
+    "слово – palabra",
+    "человек – persona",
+    "время – tiempo",
+    "год – año"
+  ],
+  "verbos": [
+    "говорить – hablar",
+    "быть – ser, estar",
+    "делать – hacer",
+    "идти – ir"
+  ],
+  "adjetivos": [
+    "красивый – bonito",
+    "большой – grande",
+    "маленький – pequeño"
+  ],
+  "adverbios": [
+    "быстро – rápidamente",
+    "медленно – lentamente"
+  ],
+  "frases": [
+    "Как тебя зовут? – ¿Cómo te llamas?",
+    "Меня зовут ... – Me llamo ..."
+  ]
+}
